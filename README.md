@@ -6,7 +6,8 @@
 <h4 align="left">Dự án được thực hiện bởi nhóm gồm 5 thành viên: <Br> Lâm Mỹ Huyền (Leader, Scrum Master)<Br>Nguyễn Hà My (Product Owner)<Br>Trần Thị Kim Chi (Dev)<Br>Mã Thị Thu Hương (Dev) <Br>Trần Tuấn Kiệt (Dev) </h4>
 <h2 align="left">## Mục tiêu của dự án</h2>
 <h4 align="left">Mục tiêu của chúng mình là tạo ra một hệ thống thân thiện với người dùng, dễ dàng trong việc quản lý và sử dụng. </h4>
-<h2 align="left">## Kế hoạch thực hiện <Br>Chúng mình đã chia dự án thành 3 sprint, với các tính năng cụ thể như sau:</h2>
+<h2 align="left">## Kế hoạch thực hiện </h2>
+<h4 align="left">Chúng mình đã chia dự án thành 3 sprint, với các tính năng cụ thể như sau:</h4>
 <h3 align="left">### Sprint 1: Xây dựng nền tảng cơ bản</h3>
 <h4 align="left">1. Xem trang chủ <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
 <h3 align="left">### Sprint 2: Quản lý hệ thống và thông tin</h3>
