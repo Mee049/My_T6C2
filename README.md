@@ -1,7 +1,7 @@
 <h1 align="left">Hé lô, Tui là Hà My🤗</h1>
 <h1 align="left">#Dự Án Quản Lý Nhà Sách - Nhóm 1</h1>
 <h2 align="left">## Giới thiệu chung</h2>
-<h4 align="left">Mình là sinh viên năm 3 học ngành Công nghệ thông tin tại https://huflit.edu.vn/. Hiện tại, mình đang tham gia một dự án nhóm với chủ đề "Website Quản Lý Nhà Sách" nhằm xây dựng một hệ thống quản lý nhà sách trực tuyến hiện đại, hỗ trợ các chức năng từ quản lý sản phẩm, kho hàng, đơn hàng cho đến thanh toán.  </h4>
+<h4 align="left">Mình là sinh viên năm 3 học ngành Công nghệ thông tin tại https://huflit.edu.vn/. <Br></Br>Hiện tại, mình đang tham gia một dự án nhóm với chủ đề "Website Quản Lý Nhà Sách" nhằm xây dựng một hệ thống quản lý nhà sách trực tuyến hiện đại, hỗ trợ các chức năng từ quản lý sản phẩm, kho hàng, đơn hàng cho đến thanh toán.  </h4>
 <h2 align="left">## Thành viên nhóm</h2>
 <h4 align="left">Dự án được thực hiện bởi nhóm gồm 5 thành viên: <Br> Lâm Mỹ Huyền (Leader, Scrum Master)<Br>Nguyễn Hà My (Product Owner)<Br>Trần Thị Kim Chi (Dev)<Br>Mã Thị Thu Hương (Dev) <Br>Trần Tuấn Kiệt (Dev) </h4>
 <h2 align="left">## Mục tiêu của dự án</h2>
